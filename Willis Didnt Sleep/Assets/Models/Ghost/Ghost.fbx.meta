@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: fbef45098bc634b4bbe395c194b29468
+timeCreated: 1486594718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.002_end
+    100012: Bone.003
+    100014: Bone.004
+    100016: Bone.005
+    100018: Bone.005_end
+    100020: Camera
+    100022: Cylinder2_copy3_Cylinder2_copy3_auv
+    100024: Cylinder2_Cylinder2_auv
+    100026: Cylinder4_copy5_Cylinder4_copy5_auv
+    100028: Cylinder4_Cylinder4_auv
+    100030: //RootNode
+    100032: Lamp
+    100034: RBone
+    100036: RBone_end
+    100038: sphere2_sphere2_auv
+    400000: Armature
+    400002: Armature.001
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.002_end
+    400012: Bone.003
+    400014: Bone.004
+    400016: Bone.005
+    400018: Bone.005_end
+    400020: Camera
+    400022: Cylinder2_copy3_Cylinder2_copy3_auv
+    400024: Cylinder2_Cylinder2_auv
+    400026: Cylinder4_copy5_Cylinder4_copy5_auv
+    400028: Cylinder4_Cylinder4_auv
+    400030: //RootNode
+    400032: Lamp
+    400034: RBone
+    400036: RBone_end
+    400038: sphere2_sphere2_auv
+    2300000: Cylinder2_copy3_Cylinder2_copy3_auv
+    2300002: Cylinder2_Cylinder2_auv
+    3300000: Cylinder2_copy3_Cylinder2_copy3_auv
+    3300002: Cylinder2_Cylinder2_auv
+    4300000: Cylinder4_Cylinder4_auv
+    4300002: Cylinder4_copy5_Cylinder4_copy5_auv
+    4300004: sphere2_sphere2_auv
+    4300006: Cylinder2_copy3_Cylinder2_copy3_auv
+    4300008: Cylinder2_Cylinder2_auv
+    7400000: Armature|GhostPunch
+    7400002: Armature|Movement
+    7400004: Armature|Throw
+    7400006: Armature|Whisper
+    7400008: Armature|WhisperEnd
+    9500000: //RootNode
+    13700000: Cylinder4_copy5_Cylinder4_copy5_auv
+    13700002: Cylinder4_Cylinder4_auv
+    13700004: sphere2_sphere2_auv
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

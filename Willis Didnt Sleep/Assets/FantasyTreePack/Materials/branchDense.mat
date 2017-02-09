@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: branchDense
+  m_Shader: {fileID: 10512, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: cf50fcc8fb307bf4db72263830fac0bd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: fd3a7cde34919914fb66fd96cf28fca4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.5576923
+    - first:
+        name: _Shininess
+      second: 0.1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.67378837, g: 0.7238806, b: 0.5131989, a: 1}
+    - first:
+        name: _EmisColor
+      second: {r: 0.26369354, g: 0.26865673, b: 0.26264203, a: 0}
+    - first:
+        name: _Emission
+      second: {r: 0.14115311, g: 0.14925373, b: 0.12029405, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0, g: 0, b: 0, a: 0}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

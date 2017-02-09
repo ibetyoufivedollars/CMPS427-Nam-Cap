@@ -1,0 +1,40 @@
+Pacman CMPS 427 character controller
+
+Alright nerds, here's how this shit works
+
+
+We're mapped to a Logitech Dual Action controller, it has the same buttons as a ps3 controller.
+As such, I'm going to refer to buttons as their PS3 counterparts, their unity mapping, and the controller button numbers
+here's the format:
+PS3/UNITYMAPPING/DUAL ACTION NUMBER
+
+Joysticks
+left control stick: Pacman's directional movement. This update with the camera, so forward on the joystick sends you
+towards the direction of the current camera view.
+
+right control stick: Camera controls. It's inverted, but feel free to change that. Right to look right, left to look left, up to look down, down to look up.
+
+right button pad
+triangle/Joystick button 3/ button 4: jump. while jumping, you have the same speed as when you're running, but further input allows for different actions
+
+square/Joystick button 0/ button 1: Nothing
+
+X/Joystick button 1/ button 2: Nothing
+
+O/Joystick button 2/ button 3: Nothing
+
+bumpers/triggers
+L1/Joystick Button 4/ button 5: crouch. while you're on the ground, you can hold this button to crouch down. you're very slow and can't jump, not too useful
+normally, but hear me out
+
+L2/Joystick Button 6/ button 7: Nothing
+
+R1/Joystick Button 5/ button 6: hover: While jumping, you can hold down the R1 button to hover for a brief period. after a timer finishes, you fall to the ground
+you're lateral movement is unaffected, but it lets you cover more distance before you fall, allowing you to span gaps otherwise too long for pacman
+bit of an error(feature?), if you mash the hover button instead of just holding it, you can cover a lot more distance than normal, usually about ten units, 
+but depends on your timing. so not a LOT more, but certainly a noticable amount.
+
+R2/Joystick Button 7/ button 8: while crouching, hold this button to begin charging a dash. bit of a caveat, if you let got of the crouch button while charging,
+your charge will still continue, but if you let go before your charge is finished while crouch remains unpressed, your charge pauses and you're stuck in the
+charge state until you finish the charge or you crouch button again. Also, you only dash forward, you dont move at an angle if you launch off of a slope.
+

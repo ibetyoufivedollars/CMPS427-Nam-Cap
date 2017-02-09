@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: 42460718d5beaff48b215646b600b9d9
+timeCreated: 1486589502
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Camera
+    100004: Cylinder4_copy8_Cylinder4_copy8_auv
+    100006: Cylinder4_Cylinder4_auv
+    100008: Cylinder5_copy6_Cylinder5_copy6_auv
+    100010: Cylinder5_Cylinder5_auv
+    100012: Cylinder7_copy9_Cylinder7_copy9_auv
+    100014: Cylinder7_Cylinder7_auv
+    100016: Eye_Left
+    100018: Eye_Left_end
+    100020: Eye_Right
+    100022: Eye_Right_end
+    100024: L_Body
+    100026: L_Foot
+    100028: L_Foot_end
+    100030: L_Hand
+    100032: L_Hand_end
+    100034: L_Low_Arm
+    100036: L_Low_Leg
+    100038: L_Up_Arm
+    100040: L_Up_Leg
+    100042: Lamp
+    100044: //RootNode
+    100046: R_Foot
+    100048: R_Foot_end
+    100050: R_Hand
+    100052: R_Hand_end
+    100054: R_Low_Arm
+    100056: R_Low_Leg
+    100058: R_Up_Arm
+    100060: R_Up_Leg
+    100062: sphere1_copy2_sphere1_copy2_auv
+    100064: sphere1_sphere1_auv
+    100066: U_Body
+    400000: Armature
+    400002: Camera
+    400004: Cylinder4_copy8_Cylinder4_copy8_auv
+    400006: Cylinder4_Cylinder4_auv
+    400008: Cylinder5_copy6_Cylinder5_copy6_auv
+    400010: Cylinder5_Cylinder5_auv
+    400012: Cylinder7_copy9_Cylinder7_copy9_auv
+    400014: Cylinder7_Cylinder7_auv
+    400016: Eye_Left
+    400018: Eye_Left_end
+    400020: Eye_Right
+    400022: Eye_Right_end
+    400024: L_Body
+    400026: L_Foot
+    400028: L_Foot_end
+    400030: L_Hand
+    400032: L_Hand_end
+    400034: L_Low_Arm
+    400036: L_Low_Leg
+    400038: L_Up_Arm
+    400040: L_Up_Leg
+    400042: Lamp
+    400044: //RootNode
+    400046: R_Foot
+    400048: R_Foot_end
+    400050: R_Hand
+    400052: R_Hand_end
+    400054: R_Low_Arm
+    400056: R_Low_Leg
+    400058: R_Up_Arm
+    400060: R_Up_Leg
+    400062: sphere1_copy2_sphere1_copy2_auv
+    400064: sphere1_sphere1_auv
+    400066: U_Body
+    4300000: Cylinder4_copy8_Cylinder4_copy8_auv
+    4300002: Cylinder7_copy9_Cylinder7_copy9_auv
+    4300004: sphere1_sphere1_auv
+    4300006: Cylinder5_copy6_Cylinder5_copy6_auv
+    4300008: Cylinder7_Cylinder7_auv
+    4300010: sphere1_copy2_sphere1_copy2_auv
+    4300012: Cylinder5_Cylinder5_auv
+    4300014: Cylinder4_Cylinder4_auv
+    7400000: Armature|ArmatureAction
+    7400002: Armature|Chomp
+    7400004: Armature|Crouch
+    7400006: Armature|Crouch Start
+    7400008: Armature|Crouch Walk
+    7400010: Armature|Dash
+    7400012: Armature|Flutter
+    7400014: Armature|FlyStomp
+    7400016: Armature|FlyStomp End
+    7400018: Armature|Idle
+    7400020: Armature|Jumping
+    7400022: Armature|MegaChomp
+    7400024: Armature|MegaChompEnd
+    7400026: Armature|Punch
+    7400028: Armature|Running
+    7400030: Armature|Walking
+    9500000: //RootNode
+    13700000: Cylinder4_copy8_Cylinder4_copy8_auv
+    13700002: Cylinder4_Cylinder4_auv
+    13700004: Cylinder5_copy6_Cylinder5_copy6_auv
+    13700006: Cylinder5_Cylinder5_auv
+    13700008: Cylinder7_copy9_Cylinder7_copy9_auv
+    13700010: Cylinder7_Cylinder7_auv
+    13700012: sphere1_copy2_sphere1_copy2_auv
+    13700014: sphere1_sphere1_auv
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Chomp
+      takeName: Armature|Chomp
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Crouch
+      takeName: Armature|Crouch
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Crouch Start
+      takeName: Armature|Crouch Start
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Crouch Walk
+      takeName: Armature|Crouch Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Dash
+      takeName: Armature|Dash
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Flutter
+      takeName: Armature|Flutter
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|FlyStomp
+      takeName: Armature|FlyStomp
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|FlyStomp End
+      takeName: Armature|FlyStomp End
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Jumping
+      takeName: Armature|Jumping
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|MegaChomp
+      takeName: Armature|MegaChomp
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|MegaChompEnd
+      takeName: Armature|MegaChompEnd
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Punch
+      takeName: Armature|Punch
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Running
+      takeName: Armature|Running
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walking
+      takeName: Armature|Walking
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/L_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Left/Eye_Left_end
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right
+        weight: 1
+      - path: Armature/L_Body/U_Body/Eye_Right/Eye_Right_end
+        weight: 1
+      - path: Armature/L_Up_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand
+        weight: 1
+      - path: Armature/L_Up_Arm/L_Low_Arm/L_Hand/L_Hand_end
+        weight: 1
+      - path: Armature/L_Up_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot
+        weight: 1
+      - path: Armature/L_Up_Leg/L_Low_Leg/L_Foot/L_Foot_end
+        weight: 1
+      - path: Armature/R_Up_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand
+        weight: 1
+      - path: Armature/R_Up_Arm/R_Low_Arm/R_Hand/R_Hand_end
+        weight: 1
+      - path: Armature/R_Up_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot
+        weight: 1
+      - path: Armature/R_Up_Leg/R_Low_Leg/R_Foot/R_Foot_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder4_copy8_Cylinder4_copy8_auv
+        weight: 1
+      - path: Cylinder4_Cylinder4_auv
+        weight: 1
+      - path: Cylinder5_copy6_Cylinder5_copy6_auv
+        weight: 1
+      - path: Cylinder5_Cylinder5_auv
+        weight: 1
+      - path: Cylinder7_copy9_Cylinder7_copy9_auv
+        weight: 1
+      - path: Cylinder7_Cylinder7_auv
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: sphere1_copy2_sphere1_copy2_auv
+        weight: 1
+      - path: sphere1_sphere1_auv
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
